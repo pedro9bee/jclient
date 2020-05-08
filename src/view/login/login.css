@@ -1,0 +1,43 @@
+@font-face {
+	font-family: 'Segan';
+	src: url('../../fonts/Segan-Light.ttf'); /* IE9 Compat Modes */
+}
+.btn-jus{
+    background-color:#40A0B3;
+    color:white;
+}
+.avisofinal{
+    padding: 10px;
+    font-size:0.3em
+}
+.login-content{
+    width:100%;
+    padding: 15%;
+    margin: auto;
+    background-color: #F7F7F7;
+    height: 100vh
+}
+
+.titulologo{
+    font-family: 'Segan';
+    text-align-last: right;
+    font-size:8px;
+}
+.distancing{
+    height: 200px;
+    margin-top:10px;
+    padding:1px;
+}
+.opcoes-login{
+    text-align: center;
+}
+.opcoes-login a{
+    text-decoration: none;
+    color:black;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    font-size:0.5em;
+    transition: .3s ease-in;
+}
+.opcoes-login a:hover{
+    color:red;
+}
