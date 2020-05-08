@@ -4,7 +4,7 @@ import React from 'react';
 
 function DetalheCasos(){
     return(
-        <h2>DetalheCasos</h2>
+        <h2>Detalhe Caso 2</h2>
     )
 }
 
